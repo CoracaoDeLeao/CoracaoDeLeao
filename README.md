@@ -14,8 +14,8 @@
 
 <div style="display: inline_block">
   <img align="center" alt="Java" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="C" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
-  <img align="center" alt="C++" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg">
+  <img align="center" alt="C" height="35" width="40" src="https://github.com/bablubambal/All_logo_and_pictures/blob/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/c.svg">
+  <img align="center" alt="C++" height="35" width="40" src="https://github.com/bablubambal/All_logo_and_pictures/blob/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/c%2B%2B.svg">
   <img align="center" alt="JavaScript" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Node.js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
